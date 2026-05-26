@@ -1,0 +1,9 @@
+2026-05-26 16:50:43,454 - INFO - Iniciando limpieza de datos
+2026-05-26 16:50:43,481 - INFO - Registros leidos: 1000
+2026-05-26 16:50:43,580 - INFO - Duplicados eliminados: 0
+2026-05-26 16:50:43,583 - INFO - Registros con nulos criticos eliminados: 0
+2026-05-26 16:50:43,584 - INFO - Registros con trip_distance <= 0 eliminados: 0
+2026-05-26 16:50:43,588 - INFO - Registros con fare_amount < 2 eliminados: 14
+2026-05-26 16:50:43,592 - INFO - Registros con duracion invalida eliminados: 1
+2026-05-26 16:50:43,612 - INFO - Registros finales limpios: 985
+2026-05-26 16:50:43,612 - INFO - Archivo procesado guardado en: C:\Users\benja\OneDrive\Desktop\pipeline-dataops-nyc-tlc\data\processed\green_trips_clean.csv

@@ -1,0 +1,1 @@
+pickup_datetime,dropoff_datetime,trip_distance,fare_amount,pickup_location_id,dropoff_location_id,vendor_id,duracion_minutos,velocidad_mph,db_error

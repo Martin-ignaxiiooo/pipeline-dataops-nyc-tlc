@@ -1,0 +1,6 @@
+2026-05-26 16:50:43,657 - INFO - Iniciando carga a PostgreSQL
+2026-05-26 16:50:44,768 - INFO - Registros leidos para cargar: 973
+2026-05-26 16:50:44,768 - INFO - Registros insertados: 973
+2026-05-26 16:50:44,768 - INFO - Registros rechazados por base de datos: 0
+2026-05-26 16:50:44,768 - INFO - Archivo de insertados guardado en: C:\Users\benja\OneDrive\Desktop\pipeline-dataops-nyc-tlc\data\validated\green_trips_inserted.csv
+2026-05-26 16:50:44,768 - INFO - Archivo de rechazados DB guardado en: C:\Users\benja\OneDrive\Desktop\pipeline-dataops-nyc-tlc\data\validated\green_trips_db_rejected.csv

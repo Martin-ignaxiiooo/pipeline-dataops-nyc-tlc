@@ -1,0 +1,7 @@
+2026-05-26 16:50:43,614 - INFO - Iniciando validacion de datos
+2026-05-26 16:50:43,618 - INFO - Registros leidos para validar: 985
+2026-05-26 16:50:43,652 - INFO - Registros validos: 973
+2026-05-26 16:50:43,652 - INFO - Registros rechazados: 12
+2026-05-26 16:50:43,652 - INFO - Archivo validado guardado en: C:\Users\benja\OneDrive\Desktop\pipeline-dataops-nyc-tlc\data\validated\green_trips_validated.csv
+2026-05-26 16:50:43,652 - INFO - Archivo de rechazados guardado en: C:\Users\benja\OneDrive\Desktop\pipeline-dataops-nyc-tlc\data\validated\green_trips_rejected.csv
+2026-05-26 16:50:43,652 - INFO - Reporte guardado en: C:\Users\benja\OneDrive\Desktop\pipeline-dataops-nyc-tlc\data\reports\validation_report.txt

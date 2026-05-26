@@ -1,0 +1,18 @@
+Reporte de validacion - NYC TLC Green Taxi Trips
+
+Archivo validado: C:\Users\benja\OneDrive\Desktop\pipeline-dataops-nyc-tlc\data\processed\green_trips_clean.csv
+Total de registros evaluados: 985
+Registros validos: 973
+Registros rechazados: 12
+
+Reglas aplicadas:
+- dropoff_datetime > pickup_datetime: 0 registros rechazados
+- trip_distance > 0: 0 registros rechazados
+- fare_amount >= 2: 0 registros rechazados
+- duracion_minutos > 0: 0 registros rechazados
+- velocidad_mph entre 1 y 80: 12 registros rechazados
+- vendor_id en [1, 2]: 0 registros rechazados
+- pickup_location_id > 0: 0 registros rechazados
+- dropoff_location_id > 0: 0 registros rechazados
+
+Nota: un mismo registro puede fallar mas de una regla.
